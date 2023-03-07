@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #59351F;
+}
+
+.title {
+    color: #000;
+}
+
+.block {
+    border-radius: 10px;
+    padding: 20px;
+}
+
+h1,
+label {
+    color: #fff;
+}
